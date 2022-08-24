@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+<h1>What is it about?
+<h3>The data entered has been rendered and seperately it has been pulled required datas from a server
+
+![](data.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
